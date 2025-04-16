@@ -1,5 +1,5 @@
 #######
-print("qwe")   
+print("qwe")       
 g=123 
 print("cdfbdfbdqwe")
 class Computer:
